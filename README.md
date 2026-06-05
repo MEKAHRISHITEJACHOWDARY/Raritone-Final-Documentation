@@ -223,7 +223,7 @@ Raritone-Project-Backend/
 * Documentation Coordination
 
 
-Meka Hrishi Teja Chowdary
+### Meka Hrishi Teja Chowdary
 - Product Module
 - Product APIs
 - Order Module
@@ -247,7 +247,7 @@ Meka Hrishi Teja Chowdary
 - API Testing
 - Workflow Validation
 
-###Vagdevi Malineni
+### Vagdevi Malineni
 - Authentication Module
 - JWT Security
 - RBAC Implementation
