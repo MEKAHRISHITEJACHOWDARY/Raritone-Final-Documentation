@@ -1,14 +1,11 @@
 # Raritone-Final-Documentation
-Spring Boot backend for a virtual try-on fashion platform with JWT authentication, MySQL database integration, avatar management, and RESTful APIs.
-
-Summer Internship project Link : https://github.com/Nandini-Bhimineni/Raritone-Project-Backend
-
-
 
 # RARITONE BACKEND SYSTEM
 
 A scalable and modular backend system developed for the Raritone Virtual Fashion Platform using Node.js, Express.js, MongoDB, and Cloudinary. The platform is designed to enhance online fashion shopping through virtual try-on capabilities, avatar management, personalized user experiences, and future AI-powered features.
 
+
+Summer Internship project Link : https://github.com/Nandini-Bhimineni/Raritone-Project-Backend
 ---
 
 ## Project Overview
